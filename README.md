@@ -4,7 +4,7 @@ Two human-occupied scene datasets are presented in the work "Reliable and Fast H
 
 ## ISL-BU-S: 
 
-Provides scene images from five places with distinct backgrounds. The images contain 1-4 people with varying obstruction complexity levels. The reference image with only a static background is given at each scene. Percent occludion, number of human segments, and the measured obstruction complexity are also given in .json files.
+Provides scene images from five places with distinct backgrounds. The images contain 1-4 people with varying obstruction complexity levels. The reference image with only a static background is given at each scene. Percent occlusion, number of human segments, and the measured obstruction complexity are also given in .json files.
 
   Access this dataset from the link: [ISL-BU-S Dataset]()
 
